@@ -1,0 +1,13 @@
+---
+---
+
+- [[Kotlin]][[Java]]
+    - [[Testing]][[JUnit5]]
+        - Testing work just as you think it would. The interop is real! Extended our base test classes and everything
+    - [[GSON]]
+        - Works as expected with data classes. no issues at all
+- [[Data Structures]][[Algorithms]][[Papers]]
+    - [[Bloom Filter]]s are _point_ based filters
+    - For range queries : ARF - Adaptive Range Filter
+        - http://www.vldb.org/pvldb/vol6/p1714-kossmann.pdf
+    - Hierarchical Bloom Filters [[https://arxiv.org/abs/1712.04544]]
