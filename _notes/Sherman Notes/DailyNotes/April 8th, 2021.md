@@ -1,12 +1,9 @@
----
----
-
 ## Todo
 - ~Investigate mouse capture in unreal~
 - Investigate missing audio in packaged game
 
 ## Today I learned (Notes)
-- [[UE-Packaging]]
+- [[ue-packaging]]
 	- If a file isn't directly reference in editor it will be excludedin cooks / packaged builds. You need to add the directory to the `Additonal Asset Directories to Cook` array in the `Project Settings -> Packaging` menu under advanced
 - [[UE-Project-Launcher]]
 	- Useful tool to build and deploy the project to a specific device.

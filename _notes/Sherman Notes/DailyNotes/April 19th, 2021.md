@@ -1,6 +1,3 @@
----
----
-
 ## Todo
 - Continue work on Camera Manager Implementation
 

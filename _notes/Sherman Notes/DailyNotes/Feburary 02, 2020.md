@@ -1,6 +1,3 @@
----
----
-
 - [[Software Engineering]]
 	- [Engineerring-belieifs](https://blog.wesleyac.com/posts/engineering-beliefs)
     - What do I believe?

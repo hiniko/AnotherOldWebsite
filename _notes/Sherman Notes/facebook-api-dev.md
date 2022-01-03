@@ -1,6 +1,3 @@
----
----
-
 
 # FaceBook API Dev otes
 #Facebook #API #Marketing

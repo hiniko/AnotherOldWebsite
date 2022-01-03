@@ -1,6 +1,3 @@
----
----
-
 # SystemD
 
 * `systemctl` - the one stop shop for all service / system related tasks

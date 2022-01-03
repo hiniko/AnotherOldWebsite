@@ -1,6 +1,3 @@
----
----
-
 # Mounting 
 
 - Remember to add entries for persistant mounts in `fstab`!

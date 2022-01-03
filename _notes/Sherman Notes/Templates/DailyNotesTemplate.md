@@ -1,8 +1,1 @@
----
----
-
-## Todo
-
-## Today I learned (Notes)
-
-## Tomorow's Tasks
+# Notes For {{date:dddd, MMMM Do YYYY}}

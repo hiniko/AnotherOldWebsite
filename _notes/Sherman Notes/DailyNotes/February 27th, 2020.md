@@ -1,6 +1,3 @@
----
----
-
 - [[Kotlin]][[Java]]
     - [[Testing]][[JUnit5]]
         - Testing work just as you think it would. The interop is real! Extended our base test classes and everything

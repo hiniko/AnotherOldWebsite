@@ -1,6 +1,3 @@
----
----
-
 - [[SDK]][[Facebook]][[iOS]][[xCode]][[Unity]]
     - Adding [[facebook-unity-sdk]] to a unity app has been a pain
     - Import the package was trivial at first however, the menu it adds would not work for some reason at first.

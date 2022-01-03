@@ -1,6 +1,3 @@
----
----
-
 - [[vscode]] Focusing terminal keyboard shortcut
     - https://github.com/Microsoft/vscode/issues/12054
     - In Keyboard shortcuts:

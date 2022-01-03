@@ -1,6 +1,3 @@
----
----
-
 # TeamCity Migration (Linux)
 
 - 2 data stores of interest

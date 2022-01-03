@@ -1,6 +1,3 @@
----
----
-
 # Postgresql
 
 ## Install 

@@ -1,6 +1,3 @@
----
----
-
 - [[Repos]][[Kotlin]]
     - https://www.kotlinresources.com/library/kotson/
         - DSL in Kotlin for [[GSON]]

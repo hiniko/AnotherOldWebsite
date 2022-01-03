@@ -1,6 +1,3 @@
----
----
-
 - [[Java]][[Generics]][[TIR]]
     -  Something to watch out for in future when trying to get the parameterized type from a class, i.e the _SomeOtherClass_ from `Class<SomeOtherClass>`
         - Getting the type is easy, especially if you only have one type:

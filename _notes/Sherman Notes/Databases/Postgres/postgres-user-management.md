@@ -1,6 +1,3 @@
----
----
-
 #   Postgres User Management
 
  - Watch out for quoting conventions!

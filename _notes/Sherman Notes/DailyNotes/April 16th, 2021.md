@@ -1,6 +1,3 @@
----
----
-
 ## Todo
 
 ## Today I learned (Notes)

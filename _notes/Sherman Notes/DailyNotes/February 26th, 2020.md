@@ -1,6 +1,3 @@
----
----
-
 - [[Kotlin]][[Java]][[Gradle]]
     - Including Kotlin in to an existing project 
         - https://kotlinlang.org/docs/reference/using-gradle.html#plugin-and-versions

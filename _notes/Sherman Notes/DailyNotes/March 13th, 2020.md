@@ -1,6 +1,3 @@
----
----
-
 - [[Java]][[JVM]][[Paper]]
     - http://homepages.inf.ed.ac.uk/wadler/gj/Documents/gj-oopsla.pdf
         - Making the future safe for the past  :Adding Genericity to the  JavaTM Programming Language

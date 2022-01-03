@@ -1,6 +1,3 @@
----
----
-
 # Networking
 
 ## Naming NICs with [[systemd]]

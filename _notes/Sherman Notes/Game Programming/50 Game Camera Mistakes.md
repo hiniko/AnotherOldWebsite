@@ -1,6 +1,3 @@
----
----
-
 [[games]] [[camera]] [[video]] [[Unreal]] [[sim-sickness]]
 
 # 50 Game Camera Mistakes

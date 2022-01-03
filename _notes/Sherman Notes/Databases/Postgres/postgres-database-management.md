@@ -1,6 +1,3 @@
----
----
-
 # Postgres Database Managment
 * `create schema teamcity authorization teamcity;`
 	* Creating a schema with user autorization:

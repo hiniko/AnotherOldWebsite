@@ -1,6 +1,3 @@
----
----
-
 - [[self improvment]][[Website]]
     - Why Procrastination is about managing emotions, not time https://www.bbc.com/worklife/article/20200121-why-procrastination-is-about-managing-emotions-not-time
 - [[REST]] [[WWW]] [[Web]][[HTTP]]

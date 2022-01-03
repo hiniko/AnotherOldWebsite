@@ -1,6 +1,3 @@
----
----
-
 - [[iOS]][[Apple]][[Code]][[AASA]]
     - Universal links
         - https://developer.apple.com/documentation/safariservices/supporting_associated_domains_in_your_app?language=objc

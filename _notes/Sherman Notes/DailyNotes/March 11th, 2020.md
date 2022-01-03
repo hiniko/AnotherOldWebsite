@@ -1,6 +1,3 @@
----
----
-
 - [[Bloom Filters]]
     - [[Papers]] https://www.usna.edu/Users/cs/adina/research/Bloofi%20_CloudI2013.pdf
         - Paper describing methods for a hierarchical bloom filter setup

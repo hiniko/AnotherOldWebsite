@@ -1,6 +1,3 @@
----
----
-
 - [[Java]]executor pool issues 
     - ```private static final int NUM_THREADS = 4;private final Logger log = Logger.getLogger(getClass());
 

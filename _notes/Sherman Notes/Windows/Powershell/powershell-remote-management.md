@@ -1,6 +1,3 @@
----
----
-
 # Powershell Remote Management
 
 - Get a session on the remote PC

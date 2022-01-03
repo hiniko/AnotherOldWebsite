@@ -1,6 +1,3 @@
----
----
-
 - [[Code]][[Repos]] https://github.com/Siderite/LInQer 
     - LINQ implementation in [[JS]]
 - [[Code]][[Repos]] Bug in AWS [[Java]] SDK

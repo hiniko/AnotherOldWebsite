@@ -1,6 +1,3 @@
----
----
-
 - [[Java]][[.jars]][[Gradle]]
     - When creating a fat Jar care needs to be taken with any singed .jars
     - Firstly if there are any signatures in META-INF the Jar will not run due to security failures

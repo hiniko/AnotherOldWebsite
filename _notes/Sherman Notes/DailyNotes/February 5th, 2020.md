@@ -1,6 +1,3 @@
----
----
-
 
 ![[facebook-api-dev]]
 - Running Ads on the FB network is a thing...
